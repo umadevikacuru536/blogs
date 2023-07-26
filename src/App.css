@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+.avatar_url{
+height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+.blogs_container{
+  border: 1px solid green;
+  border-radius: 15px;
+}
+.image_url{
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.selected{
+  border:2px solid rgb(88,6,109);
+  background-color: rgb(205,171,211);
+
+}
+.heading{
+  text-align: center;
+}
+.img{
+  border-radius: 10px;
+}
